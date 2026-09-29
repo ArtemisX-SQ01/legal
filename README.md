@@ -7,7 +7,15 @@ Public Privacy Policies and Terms of Service. This repository contains only lega
 - Privacy: https://artemisx-sq01.github.io/legal/anobrowser/privacy.html
 - Terms: https://artemisx-sq01.github.io/legal/anobrowser/terms.html
 
-Operator: H-VNCareer. Contact: long123v123@gmail.com. Effective date: 26 September 2026. The operator has confirmed that its VPN servers do not store logs.
+## NijPath Browser
+
+- Privacy: https://artemisx-sq01.github.io/legal/nijpath/privacy.html
+- Terms: https://artemisx-sq01.github.io/legal/nijpath/terms.html
+- Package: `com.tt.browser.tw` (Premium edition: `com.tt.browser.tw.premium`)
+
+These URLs match the links already configured in NijPath Browser. The NijPath policy describes the user's own WireGuard server and does not reuse AnoBrowser's operator no-logs claim. Review the final advertising, Firebase, and data-safety configuration before publishing.
+
+Operator: H-VNCareer. Contact: long123v123@gmail.com. AnoBrowser effective date: 26 September 2026. The operator has confirmed that its AnoBrowser VPN servers do not store logs; this statement does not cover a server supplied by a NijPath user.
 
 ## Adding another app
 
